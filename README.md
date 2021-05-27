@@ -17,7 +17,7 @@
 
 ## todo:
 
-* what is oop?????
+* what is oop? (e.g. for database connection)
 * await keypress?
 * screenshots?
 * OCR <- what library < settings/preprocessing opencv2?
