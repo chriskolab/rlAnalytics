@@ -17,10 +17,12 @@
 
 ## todo:
 
-* what is oop? (e.g. for database connection)
-* await keypress?
-* screenshots?
+* design database ✅
+* what is oop? (e.g. for database connection) ✅
+* screenshots ✅
 * OCR <- what library < settings/preprocessing opencv2?
+    * https://nanonets.com/blog/ocr-with-tesseract/#ocrwithpytesseractandopencv
 * what is multiprocessing in python?
+* await keypress?
 * program
 * figure part 2
